@@ -137,10 +137,10 @@ title = "gitleaks config"
             '''git@github.com''',
             '''git@gitlab.com''',
             '''slovacus@gmail.com''',
-            '''hola@hadenlabs.com''',
-            '''support@hadenlbas.com''',
             '''support@hadenlabs.com''',
-            '''dum-u@hadenlabs.com''',
+            '''santiago.rojas@inetum.world''',
+            '''miguel.huamani@inetum.world''',
+            '''luis.mayta@inetum.world''',
         ]
 
 [[rules]]
