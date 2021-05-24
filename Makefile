@@ -18,9 +18,9 @@ else
 	PIPENV_INSTALL:=
 endif
 
-TEAM := hadenlabs
+TEAM := inetumperu
 REPOSITORY_DOMAIN:=github.com
-REPOSITORY_OWNER:=${TEAM}
+REPOSITORY_OWNER:= inetum-peru
 AWS_VAULT ?= ${TEAM}
 PROJECT := base-template
 
