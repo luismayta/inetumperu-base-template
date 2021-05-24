@@ -14,7 +14,7 @@
 
 # base-template
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hadenlabs/base-template?label=latest&sort=semver)](https://github.com/hadenlabs/base-template/releases) [![Latest Release](https://img.shields.io/github/release/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code)](https://github.com/hadenlabs/base-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com) [![Beacon](https://ga-beacon.appspot.com/G-MZEK48EGE8/base-template/readme)](https://github.com/hadenlabs/base-template)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/inetum-peru/base-template?label=latest&sort=semver)](https://github.com/inetum-peru/base-template/releases) [![Latest Release](https://img.shields.io/github/release/inetum-peru/base-template)](https://github.com/inetum-peru/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/inetum-peru/base-template/lint-code)](https://github.com/inetum-peru/base-template/actions) [![Issues](https://img.shields.io/github/issues/inetum-peru/base-template)](https://github.com/inetum-peru/base-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
 base-template for project
 
@@ -28,13 +28,13 @@ base-template for project
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/base-template/issues).
+File a GitHub [issue](https://github.com/inetum-peru/base-template/issues).
 
 ## Contributing
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/hadenlabs/base-template/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/inetum-peru/base-template/issues) to report any bugs or file feature requests.
 
 ### Development
 
@@ -63,9 +63,9 @@ Using the given version number of `MAJOR.MINOR.PATCH`, we apply the following co
 - In the context of initial development, backwards compatibility in versions `0.0.z` is **not guaranteed** when `z` is increased. (Initial development)
 - In the context of pre-release, backwards compatibility in versions `0.y.z` is **not guaranteed** when `y` is increased. (Pre-release)
 
-## Copyright
+## Copyrights
 
-Copyright © 2018-2021 [Hadenlabs](https://hadenlabs.com)
+Copyright © 2018-2021 [inetum](http://www.gfiworld.com.pe)
 
 ## Trademarks
 
@@ -77,4 +77,4 @@ The code and styles are licensed under the LGPL-3.0 license [See project license
 
 ## Don't forget to 🌟 Star 🌟 the repo if you like base-template
 
-[Your feedback is appreciated](https://github.com/hadenlabs/base-template/issues)
+[Your feedback is appreciated](https://github.com/inetum-peru/base-template/issues)
