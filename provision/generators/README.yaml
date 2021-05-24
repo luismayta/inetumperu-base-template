@@ -8,7 +8,12 @@
 name: base-template
 
 email:
-  support: support@hadenlabs.com
+  support: luis.mayta@inetum.world
+
+copyrights:
+  - name: 'inetum'
+    url: 'http://www.gfiworld.com.pe'
+    year: '2018'
 
 # Logo for this project
 #logo: docs/logo.png
@@ -17,32 +22,30 @@ email:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: hadenlabs/base-template
+github_repo: inetum-peru/base-template
 
 # Badges to display
 badges:
   - name: GitHub tag (latest SemVer)
-    image: https://img.shields.io/github/v/tag/hadenlabs/base-template?label=latest&sort=semver
-    url: https://github.com/hadenlabs/base-template/releases
+    image: https://img.shields.io/github/v/tag/inetum-peru/base-template?label=latest&sort=semver
+    url: https://github.com/inetum-peru/base-template/releases
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/base-template
-    url: https://github.com/hadenlabs/base-template/releases
+    image: https://img.shields.io/github/release/inetum-peru/base-template
+    url: https://github.com/inetum-peru/base-template/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code
-    url: https://github.com/hadenlabs/base-template/actions
+    image: https://img.shields.io/github/workflow/status/inetum-peru/base-template/lint-code
+    url: https://github.com/inetum-peru/base-template/actions
   - name: Issues
-    image: https://img.shields.io/github/issues/hadenlabs/base-template
-    url: https://github.com/hadenlabs/base-template/issues
+    image: https://img.shields.io/github/issues/inetum-peru/base-template
+    url: https://github.com/inetum-peru/base-template/issues
   - name: Conventional Commits
     image: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow
     url: https://conventionalcommits.org
   - name: KeepAChangelog
     image: https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735
     url: https://keepachangelog.com
-  - name: Beacon
-    image: https://ga-beacon.appspot.com/G-MZEK48EGE8/base-template/readme
-    url: https://github.com/hadenlabs/base-template
 
+# Short description of this project
 description: |-
 
   base-template for project

@@ -1,5 +1,5 @@
 {
-  "name": "@hadenlabs/base-template",
+  "name": "@inetum-peru/base-template",
   "version": "0.0.0",
   "description": "base-template",
   "author": "Luis Mayta <slovacus@gmail.com>",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hadenlabs/base-template.git"
+    "url": "git+https://github.com/inetum-peru/base-template.git"
   },
   "keywords": [
     "hadenlabs",
@@ -48,9 +48,9 @@
     "tool"
   ],
   "bugs": {
-    "url": "https://github.com/hadenlabs/base-template/issues"
+    "url": "https://github.com/inetum-peru/base-template/issues"
   },
-  "homepage": "https://github.com/hadenlabs/base-template#readme",
+  "homepage": "https://github.com/inetum-peru/base-template#readme",
   "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
@@ -70,7 +70,7 @@
     "prettier-eslint": "^12.0.0",
     "slugify": "^1.5.3",
     "rimraf": "^3.0.2",
-    "ts-node": "^9.1.1",
+    "ts-node": "^10.0.0",
     "typescript": "^4.2.4"
   },
   "prettier": "./.github/linters/prettier.config.js"
