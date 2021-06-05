@@ -12,9 +12,9 @@
 
   -->
 
-# base-template
+[![GitHub release](https://img.shields.io/github/release/inetum-peru/base-template?style=flat-square)](https://github.com/inetum-peru/base-template/releases/latest) [![Lint](https://img.shields.io/github/workflow/status/inetum-peru/base-template/lint-code)](https://github.com/inetum-peru/base-template/actions?workflow=lint-code) [![Issues](https://img.shields.io/github/issues/inetum-peru/base-template)](https://github.com/inetum-peru/base-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/inetum-peru/base-template?label=latest&sort=semver)](https://github.com/inetum-peru/base-template/releases) [![Latest Release](https://img.shields.io/github/release/inetum-peru/base-template)](https://github.com/inetum-peru/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/inetum-peru/base-template/lint-code)](https://github.com/inetum-peru/base-template/actions) [![Issues](https://img.shields.io/github/issues/inetum-peru/base-template)](https://github.com/inetum-peru/base-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
+# base-template
 
 base-template for project
 
